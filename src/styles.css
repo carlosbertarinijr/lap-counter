@@ -1,0 +1,29 @@
+@import url('//fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.voltas {
+    font-size: 64px;
+    font-weight: bold;
+}
+.voltas span {
+    font-size: 150px;    
+}
+
+button {
+    background-color: #f9f9f9;
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 22px;
+    margin: 6px;
+}
+.tempo span {
+    font-weight: bold;
+    font-size: 22px;
+}
+.bigger {
+    font-size: 26px;
+    font-weight: bold;
+}
