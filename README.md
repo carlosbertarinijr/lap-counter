@@ -39,5 +39,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Project motivation
 This project is a kind of counter, it processes the average of turns that an event happens in the space of time.
+
 It is the result of the course 'https://reactjs.club.hotmart.com/'
+
 So it's a training demonstration with ReactJs technology.
